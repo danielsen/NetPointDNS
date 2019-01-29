@@ -6,6 +6,11 @@
     <Company>Dan Nielsen</Company>
     <Description>NetPointDNS is a library for interacting with the PointDNS API.</Description>
     <Copyright>2019</Copyright>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/danielsen/NetPointDNS/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/danielsen/NetPointDNS</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/danielsen/NetPointDNS</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>DNS PointHQ PointDNS</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
